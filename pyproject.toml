@@ -1,0 +1,20 @@
+[project]
+name = "load-generator"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "black>=25.1.0",
+    "geopandas>=1.1.1",
+    "ipython>=9.4.0",
+    "ipywidgets>=8.1.7",
+    "jupyterlab>=4.4.4",
+    "jupytext>=1.17.2",
+    "matplotlib>=3.10.3",
+    "networkx>=3.5",
+    "osmnx>=2.0.4",
+    "pandas>=2.3.0",
+    "scipy>=1.16.0",
+    "uuid>=1.30",
+]
