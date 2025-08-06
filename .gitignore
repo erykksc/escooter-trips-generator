@@ -3,3 +3,6 @@
 output/
 .venv/
 cache/
+
+# distributions visualizations
+*.pdf
