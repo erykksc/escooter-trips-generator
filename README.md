@@ -3,6 +3,8 @@
 Generates synthetic e-scooter trip data for Berlin using OpenStreetMap networks.
 It can be configured to generate dataset using other or multiple cities.
 
+**This project has been developed as a part of my [bachelor thesis](https://github.com/erykksc/bachelor-thesis)**
+
 ![Routes Example](routes_example.png)
 
 ## Usage
